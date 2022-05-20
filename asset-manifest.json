@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66ad0a15.css",
+    "main.js": "/static/js/main.dc6fe8f1.js",
+    "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
+    "static/media/parralax_pic.png": "/static/media/parralax_pic.d07d818ab17f94212eff.png",
+    "static/media/Ecommerce_pic.png": "/static/media/Ecommerce_pic.0259e4dd6d135fb9b1ac.png",
+    "static/media/Merkury_pic.png": "/static/media/Merkury_pic.c7ab170db3df6626ac17.png",
+    "static/media/Crypto_pic.png": "/static/media/Crypto_pic.cfc540b9782e1076e2cd.png",
+    "static/media/Loruki_pic.png": "/static/media/Loruki_pic.9c1808d2de01dba802f8.png",
+    "static/media/logo_sub.png": "/static/media/logo_sub.872a92fd314e149dd6f6.png",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/static/media/logo-s.101f009326d0cd0898da.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.66ad0a15.css.map": "/static/css/main.66ad0a15.css.map",
+    "main.dc6fe8f1.js.map": "/static/js/main.dc6fe8f1.js.map",
+    "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ad0a15.css",
+    "static/js/main.dc6fe8f1.js"
+  ]
+}
